@@ -10,4 +10,4 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 
 ## Uploading
 - hangar-publish-plugin: Gradle plugin to upload versions to Hangar (https://github.com/HangarMC/hangar-publish-plugin)
-
+- hangar-upload-action: Github actions to upload versions to Hangar (https://github.com/marketplace/actions/hangar-upload-action)

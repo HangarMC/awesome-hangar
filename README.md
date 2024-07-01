@@ -17,6 +17,9 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 - [MCReleaser]: A program to publish artifacts to multiple Minecraft-related platforms.
 - Simple-ish example Java code for uploading a version to Hangar to copy and paste: https://gist.github.com/kennytv/a227d82249f54e0ad35005330256fee2
 
+## Plugins
+- [flytegg/plugin-portal]: Minecraft plugin manager for downloading and updating plugins from the chatbar.
+
 [hangar-wrapper]: https://github.com/flytegg/hangar-wrapper
 [hangar4j]: https://github.com/xMrAfonso/Hangar4J
 
@@ -24,3 +27,5 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 [hangarshell]: https://github.com/DeerGiteaMirror/HangarShell
 [hangar-upload-action]: https://github.com/marketplace/actions/hangar-upload-action
 [mcreleaser]: https://github.com/HSGamer/MCReleaser
+
+[flytegg/plugin-portal]: https://github.com/flytegg/plugin-portal

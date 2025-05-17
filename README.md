@@ -8,6 +8,7 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 
 - [hangar-wrapper]: A Java/Kotlin wrapper for the Hangar API
 - [Hangar4J]: A Java wrapper to easily access PaperMC's Hangar API in a secure way.
+- [hangar-api]: Java API wrapper for Hangar.
 
 ## Uploading
 
@@ -22,6 +23,7 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 
 [hangar-wrapper]: https://github.com/flytegg/hangar-wrapper
 [hangar4j]: https://github.com/xMrAfonso/Hangar4J
+[hangar-api]: https://github.com/TheSilentPro/hangar-api
 
 [hangar-publish-plugin]: https://github.com/HangarMC/hangar-publish-plugin
 [hangarshell]: https://github.com/DeerGiteaMirror/HangarShell

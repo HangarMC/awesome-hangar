@@ -9,6 +9,7 @@ Be sure to add your projects via a pull request! Please keep the order of the se
 - [hangar-wrapper]: A Java/Kotlin wrapper for the Hangar API
 - [Hangar4J]: A Java wrapper to easily access PaperMC's Hangar API in a secure way.
 - [hangar-api]: Java API wrapper for Hangar.
+- [hangar-js](https://github.com/creeperkatze/hangar-js): A framework-agnostic fully typed JavaScript client for the Hangar API by PaperMC.
 
 ## Uploading
 
